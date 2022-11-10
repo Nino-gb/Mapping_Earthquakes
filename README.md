@@ -1,10 +1,7 @@
 # Mapping_Earthquakes
 
 ## Overview
-Create a Map that recorded all earthquakes in the past seven days by accessing GeoJSON data, parsing the data, and adding it to a map. Map visualization contained streets, dark and stallite map style showing earthquakes magnitud data with circle markers, color range for the magnitude and a popup for each earthquake. Map also have three overlays for the earthquakes map, users will be able to chose which data they want to access from earthquakes, major earthquakes or tectonic plates.
-
-Add multiples layers
-
+Create a map that record all earthquakes in the past seven days by accessing GeoJSON data, parsing the data, and adding it to a map. Map visualization contained streets, dark and stallite map style showing earthquakes magnitud data with circle markers, color range for the magnitude and a popup for each earthquake. Map also have three overlay options, users will be able to choose which overlay data they want to access by selecting earthquakes overlay, major earthquakes overlay and tectonic plates overlay.
 
 
 ## Results
